@@ -105,8 +105,8 @@ function HireMeModal({ onClose, onRequest }) {
 											py-2
 											sm:py-2.5
 											text-white
-											bg-indigo-500
-											hover:bg-indigo-600
+											bg-mauve
+											hover:bg-mauvedark
 											rounded-md
 											focus:ring-1 focus:ring-indigo-900 duration-500"
 										aria-label="Submit Request"
