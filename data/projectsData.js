@@ -13,7 +13,7 @@ export const projectsData = [
         title: 'ZeroGravityStays',
         url: 'zerogravitystays',
         category: 'Web Application',
-        img: '/images/homePicture.jpg',
+        img: '/images/home.png',
         ProjectHeader: {
             title: 'ZeroGravityStays',
             publishDate: 'Mars 2025',
