@@ -23,17 +23,17 @@ export const projectsData = [
             {
                 id: uuidv4(),
                 title: 'Liste des categories 1',
-                img: '/images/countryside_cat.webp',
+                img: '/images/hotelvuepiscine (3).png',
             },
             {
                 id: uuidv4(),
                 title: 'Liste des categories 2',
-                img: '/images/camping_cat.jpg',
+                img: '/images/suite2.png',
             },
 			{
                 id: uuidv4(),
                 title: 'Page des categories 3',
-                img: '/images/beach_cat.jpg',
+                img: '/images/spa.png',
             },
         ],
         ProjectInfo: {
