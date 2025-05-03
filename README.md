@@ -1,84 +1,64 @@
-# Next.js, React & TailwindCSS Portfolio Project
+# 🌐 Noura Charrak — Portfolio Web
 
-A simple portfolio starter theme built with Next.js, React and Tailwind CSS. This is the Next.js version of [vuejs-tailwindcss-portfolio](https://github.com/realstoman/vuejs-tailwindcss-portfolio).
+Bienvenue sur mon portfolio de développeuse web & web mobile, réalisé avec **Next.js**, **React**, et **Tailwind CSS** !
 
-![React-TailwindCSS-Portfolio](https://user-images.githubusercontent.com/16396664/146666086-28e88beb-c2f0-431f-adfb-2396d8f64c80.png)
+![Noura Charrak Portfolio Screenshot](public/images/home.png) <!-- Ouvre l'image qui te représente le mieux, ou remplace le chemin ! -->
 
-## Demo URL
+## 🚀 Demo
 
-[https://nextjs-tailwindcss-portfolio.vercel.app](https://nextjs-tailwindcss-portfolio.vercel.app)
+👉 [Voir le site en ligne](https://zero-gravity-stays.vercel.app/) et (https://crystallina_store.vercel.app/)
 
-## Other versions of this project
+---
 
--   React Version: [https://github.com/realstoman/react-tailwindcss-portfolio](https://github.com/realstoman/react-tailwindcss-portfolio)
--   Vue.js Version: [https://github.com/realstoman/vuejs-tailwindcss-portfolio](https://github.com/realstoman/vuejs-tailwindcss-portfolio)
--   Nuxt.js Version: [https://github.com/realstoman/nuxtjs-tailwindcss-portfolio](https://github.com/realstoman/nuxtjs-tailwindcss-portfolio)
+## 👩‍💻 À propos
 
-## Features
+Je m'appelle **Noura Charrak**, développeuse web passionnée par les nouvelles technologies et l'innovation.
+Après un master en anglais et plusieurs années d’expérience en management, je me suis spécialisée en développement full-stack :  
+**HTML, CSS, JavaScript, PHP (Laravel, Symfony), Node.js, React, SQL/NoSQL**...
 
--   Built with [Next.js](https://nextjs.org) and [React](https://reactjs.org)
--   [Tailwind CSS v3](https://tailwindcss.com)
--   Custom Hooks
--   Framer Motion Transitions & Animations
--   Reusable Components
--   Projects filter by category
--   Projects filter by search
--   Dark Mode
--   Smooth scroll
--   Counter
--   Dynamic forms
--   Back to top button
--   Download file button
--   Simple and responsive design
+Curieuse, rigoureuse et à l’aise en anglais, français et arabe, je mets mes compétences techniques et humaines au service de projets innovants !
 
-### To Contribute to this project, read the [Contribution Guidlines](https://github.com/realstoman/nextjs-tailwindcss-portfolio/blob/main/CONTRIBUTING.md)
+---
 
-## Setup
+## 🛠️ Technologies utilisées
 
-1. Make sure you have Node JS installed. If you don't have it:
+- [Next.js](https://nextjs.org)
+- [React](https://reactjs.org)
+- [Tailwind CSS](https://tailwindcss.com)
+- [Framer Motion](https://www.framer.com/motion/)  
+- Node.js, Express, MongoDB, Scss, etc. selon les projets
 
--   [Download it from nodejs.org](https://nodejs.org)
--   [Install it using NVM ](https://github.com/nvm-sh/nvm)
--   If you're on Mac, Homebrew is a good option too:
+---
 
-```
-brew install node
-```
+## 📂 Fonctionnalités
 
-2. Clone the repo:
+- Portfolio dynamique, responsive & moderne
+- Filtres par catégorie & recherche
+- Thème sombre/clair
+- Animations Framer Motion
+- Formulaire de contact
+- Présentation de projets variés avec liens de démo
 
-```
-git clone https://github.com/realstoman/nextjs-tailwindcss-portfolio.git
-```
+---
 
-3. Open the project folder:
+## 🚩 Crédits
 
-```
-cd nextjs-tailwindcss-portfolio
-```
+Ce portfolio est basé sur un template open-source de [Stoman](https://github.com/realstoman/nextjs-tailwindcss-portfolio) (MIT license), que j’ai adapté et personnalisé.
+Les images proviennent de [Unsplash](https://unsplash.com), [UnDraw](https://undraw.co), et mes propres créations.
 
-4. Install packages and dependencies:
+---
 
-```
+## 🔧 Installation (pour tester en local)
+
+```bash
+# Cloner ce dépôt
+git clone https://github.com/ton-compte/ton-portfolio.git
+
+cd ton-portfolio
+
+# Installer les dépendances
 npm install
-```
 
-5. Start a local dev server at `http://localhost:3000`:
-
-```
+# Lancer le serveur de développement
 npm run dev
-```
 
-## Notes
-
--   Always run `npm install` after pulling new changes
--   I'll be constantly updating this repo as I'll be adding more sections to it, so please always check the projects section of this repo to see what tasks are under todo and in progress
--   Coming Soon [I'll be doing a screencast](https://www.youtube.com/realstoman). Soon I'll be uploading a video to my YouTube channel where I'll be going through the process of creating this portoflio
--   Illustrations from [unDraw](https://undraw.co) and [Freepik](https://freepik.com)
--   Images from [Unsplash](https://unsplash.com)
--   Feel free to use it as your own portfolio
--   Contributions are welcome
-
-### License
-
-[MIT](https://github.com/realstoman/nextjs-tailwindcss-portfolio/blob/main/LICENSE)
